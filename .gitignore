@@ -1,0 +1,7 @@
+xcelium.d
+verdiLog
+*.log
+*.history
+*.fsdb
+*.conf
+*_tb.v
